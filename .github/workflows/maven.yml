@@ -41,6 +41,3 @@ jobs:
 
       - name: Verify dependency integrity
         run: mvn -ntp -B verify -DskipTests
-
-      - name: Update dependency graph
-        uses: advanced-security/maven-dependency-submission-action@v4
