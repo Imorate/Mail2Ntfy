@@ -3,5 +3,5 @@ spring:
     name: Mail2Ntfy
   main:
     banner-mode: off
-  config:
-    import: file:.env[.properties]
+  profiles:
+    active: default
