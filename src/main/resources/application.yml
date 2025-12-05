@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Mail2Ntfy
+  main:
+    banner-mode: off

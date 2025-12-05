@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.imorate</groupId>
-    <artifactId>Gmail2Ntfy</artifactId>
+    <artifactId>Mail2Ntfy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Gmail2Ntfy</name>
-    <description>Gmail2Ntfy</description>
+    <name>Mail2Ntfy</name>
+    <description>Mail2Ntfy</description>
     <url/>
     <licenses>
         <license/>

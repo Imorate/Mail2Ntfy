@@ -1,10 +1,10 @@
-package com.imorate.gmail2ntfy;
+package com.imorate.mail2ntfy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Gmail2NtfyApplicationTests {
+class Mail2NtfyApplicationTests {
 
     @Test
     void contextLoads() {
